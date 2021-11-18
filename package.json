@@ -1,0 +1,14 @@
+{
+  "name": "react-skia-renderer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/onesmash/react-skia-renderer.git",
+  "author": "xuhui <good122000@qq.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "dependencies": {
+    "react-reconciler": "^0.26.2"
+  }
+}
